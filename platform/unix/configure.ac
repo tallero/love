@@ -1,4 +1,4 @@
-AC_INIT([love], [11.4])
+AC_INIT([love], [20200816.9f62bafe])
 AC_CONFIG_HEADERS([config.h])
 AC_CONFIG_AUX_DIR([platform/unix])
 AC_CONFIG_MACRO_DIR([platform/unix/m4])
